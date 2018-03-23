@@ -4,4 +4,8 @@ public class Math {
 		return x + y;
 	}
 
+	int pro(int x, int y) {
+		return x * y;
+	}
+
 }
